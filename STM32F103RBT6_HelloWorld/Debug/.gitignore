@@ -1,0 +1,9 @@
+/StdPeriph_Driver/
+/sources.mk
+/Utilities/
+/src/
+/startup/
+/Third-Party/
+/makefile
+/objects.list
+/objects.mk
